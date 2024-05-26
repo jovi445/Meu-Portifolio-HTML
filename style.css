@@ -12,11 +12,11 @@
     color: white;
 }
 
-img {
+.imagem_Perfil {
     border-radius: 50%;
-    border: 5px solid;
     margin: auto;
     display: block;
+    border: 5px solid;
 }
 
 body {
